@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexey Evseev
-- 🤝 I’m looking for job (junior web-development)
-- 👀 I like web-development and currently I've been learning at Yandex.Praktikum (~70% done)
-- I have a basic understanding of the following front-end technologies:
+- 👀 I’m looking for job (junior web-development)
+- 💞 I like web-development and currently I've been learning at Yandex.Praktikum (~70% done)
+- 📚 I have a basic understanding of the following front-end technologies:
     - HTML, CSS, JS
     - ReactJS
   and some back-end:
@@ -9,7 +9,7 @@
        - [a bot informant about the schedule on telegram](https://github.com/yelex/ranepa_bot)
        - [parsers of data on prices of Internet retailers](https://github.com/yelex/ane_django)
     - SQL (complex SQL queries)
-- I have some pet-projects in this repository (sorted from newest to oldest):
+- 🖥 I have some pet-projects in this repository (sorted from newest to oldest):
     - [Project "Mesto-react"](https://github.com/yelex/mesto-react) ("Mesto" refactored with ReactJS)
     - [Project "Mesto"](https://github.com/yelex/mesto) (Web-service for sharing pictures of interested cites)
     - [Project "Russian travel"](https://github.com/yelex/russian-travel) (Adaptive one-page website about travelling of Russia)
