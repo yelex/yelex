@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexey Evseev
-- 👀 I’m like web-development and now I'm learning at Yandex.Praktikum (~70% done)
+- 👀 I’m like web-development and now (may-june 2021) I've been learning at Yandex.Praktikum (~70% done)
 - In recent years, I have been writing a lot of data collection code in the Python programming language.
 - I have a basic understanding of the following front-end technologies:
     - HTML, CSS, JS
