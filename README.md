@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Alexey Evseev
 - 👀 I’m like web-development and now I'm learning at Yandex.Praktikum (~70% done)
-- I have some pet-projects in this repository
-    - [Project "How to learn"](https://github.com/yelex/how-to-learn) (one-page website)
-    - [Project "Mesto"](https://github.com/yelex/mesto) (Web-service for sharing pictures of interested cites)
+- I have some pet-projects in this repository (sorted from newest to oldest):
     - [Project "Mesto-react"](https://github.com/yelex/mesto-react) ("Mesto" refactored with ReactJS)
+    - [Project "Mesto"](https://github.com/yelex/mesto) (Web-service for sharing pictures of interested cites)
     - [Project "Russian travel"](https://github.com/yelex/russian-travel) (Adaptive one-page website about travelling of Russia)
+    - [Project "How to learn"](https://github.com/yelex/how-to-learn) (one-page website)
     
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for job (junior web-development)
