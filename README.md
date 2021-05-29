@@ -6,7 +6,7 @@
     - ReactJS
   and some back-end:
     - Python (basic pet-projects): 
-       - [a bot informant about the schedule on telegram](https://github.com/yelex/ranepa_bot)
+       - [a bot informant about the Univerity group schedule on telegram](https://github.com/yelex/ranepa_bot)
        - [parsers of data on prices of Internet retailers](https://github.com/yelex/ane_django)
     - SQL (complex SQL queries)
 - 🖥 I have some pet-projects in this repository (sorted from newest to oldest):
