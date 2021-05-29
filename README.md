@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Evseev
 - 👀 I’m looking for job (junior web-development)
-- 💞 I like web-development and currently I've been learning at Yandex.Praktikum (~70% done)
+- 💞 I like web-development and currently I'ь learning at Yandex.Praktikum (~70% done)
 - 📚 I have a basic understanding of the following front-end technologies:
     - HTML, CSS, JS
     - ReactJS
