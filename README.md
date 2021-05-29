@@ -5,7 +5,7 @@
     - HTML, CSS, JS
     - ReactJS
   and some back-end:
-    - Python (pet-projects: 
+    - Python (basic pet-projects): 
        - [a bot informant about the schedule on telegram](https://github.com/yelex/ranepa_bot)
        - [parsers of data on prices of Internet retailers](https://github.com/yelex/ane_django)
     - SQL (complex SQL queries)
