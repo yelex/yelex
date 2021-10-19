@@ -11,7 +11,6 @@
 * ReactJS
 * ExpressJS
 * Webpack
-* Git
 
 # 🖥 Мои pet-проекты
  
